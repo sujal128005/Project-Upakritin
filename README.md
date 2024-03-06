@@ -2,8 +2,9 @@ Our project aims to revolutionize safety and navigation at the Kumbh Mela by har
 
 Key Points
 
-NavIC-enabled Precision: Enhanced location tracking for individuals and vehicles, even in dense crowds.
-AI-powered Crowd Analytics: Real-time assessment of crowd density, movement patterns, and potential risks.
-Centralized Control: A comprehensive visualization interface for authorities, providing a bird's-eye view for optimized decision-making.
-Seamless Communication: Robust wireless connectivity between drones, vehicles, cameras, and the control center for efficient data flow.
-Overall Impact: This integrated system has the potential to significantly improve safety, optimize crowd flow, enhance navigation for both pilgrims and emergency vehicles, and ultimately transform the overall experience of the Kumbh Mela.
+*NavIC-enabled Precision: Enhanced location tracking for individuals and vehicles, even in dense crowds.
+*AI-powered Crowd Analytics: Real-time assessment of crowd density, movement patterns, and potential risks.
+*Centralized Control: A comprehensive visualization interface for authorities, providing a bird's-eye view for optimized decision-making.
+*Seamless Communication: Robust wireless connectivity between drones, vehicles, cameras, and the control center for efficient data flow.
+
+Overall Impact: This integrated system has the potential to significantly improve safety, optimize crowd flows, enhance navigation for both pilgrims and emergency vehicles and ultimately transform the overall experience of the Kumbh Mela.
